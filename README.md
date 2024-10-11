@@ -9,4 +9,6 @@ These tools allow me to create a Dialogue System that changes based on the playe
 
 The aim of this project was to find a way to create a modular Dialogue system that could be easily modified and expanded later if needed.
 
+Check out the video on my YouTube Channel: https://youtu.be/BSTgqNqLirs
+
 
